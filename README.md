@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnhPham2809
 - 👀 I’m interested in Computer Science, Game Dev, and lots more!
-- 🌱 I’m currently learning Computer Science II
 - 📫 How to reach me: anhphamofficial2809@gmail.com
 
 <!---
